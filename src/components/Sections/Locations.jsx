@@ -6,26 +6,27 @@ export default function Locations() {
 
     <h2 style={{color: 'black', fontSize: '32px;', textAlign:'center'}}>Locations</h2>
 <LocationsWrapper>
-<div>Cardiff</div>
-<div>Pontypridd</div>
-<div>Caerphilly</div>
-<div>Penarth</div>
-<div>Barry</div>
-<div>Newport</div>
-<div>Radyr</div>
-<div>St Mellons</div>
-<div>Whitchurch</div>
-<div>Dinas Powys</div>
-<div>Rhiwbina</div>
-<div>Tongwynlais</div>
-<div>Cardiff Bay</div>
-<div>Roath</div>
-<div>Grangetown</div>
-<div>Canton</div>
-<div>Splott</div>
-<div>Rumney</div>
-<div>Heath</div>
-<div>Llanishen</div>
+<div>Birmingham</div>
+<div>Wolverhampton</div>
+<div>Coventry</div>
+<div>Dudley</div>
+<div>Walsall</div>
+<div>West Bromwich</div>
+<div>Solihull</div>
+<div>Sutton Coldfield</div>
+<div>Stourbridge</div>
+<div>Halesowen</div>
+<div>Smethwick</div>
+<div>Redditch</div>
+<div>Tamworth</div>
+<div>Kidderminster</div>
+<div>Bromsgrove</div>
+<div>Nuneaton</div>
+<div>Leamington Spa</div>
+<div>Warwick</div>
+<div>Rugby</div>
+<div>Lichfield</div>
+
 
 
 
